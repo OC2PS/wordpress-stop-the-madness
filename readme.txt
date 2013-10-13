@@ -5,7 +5,7 @@ Requires at least: 3.5
 Tested up to: 3.6.1
 Stable tag: 1.0
 
-Allow 404 errors to redirect to a specific page (as a 301).
+Prevent rewrite rule madeness.
 
 == Description ==
 
